@@ -15,5 +15,3 @@
 - [Twitter](https://twitter.com/julia_b_6)
 - [LinkedIn](https://linkedin.com/in/bjv)
 - [Instagram](https://www.instagram.com/julia_b_6/)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
