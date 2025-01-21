@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Let's connect! 👋
 
 🚀 **Tech-Driven BizDev Lead | Blockchain & AI Innovator**   
 
