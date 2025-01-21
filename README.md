@@ -1,3 +1,6 @@
+<p align="center">
+  <img alig src="https://github.com/julia-b-6/julia-b-6/blob/main/inc4cover.jpeg" />
+</p>
 # Let's connect! 👋
 
 🚀 **Tech-Driven BizDev Lead | Blockchain & AI Innovator**   
