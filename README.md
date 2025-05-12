@@ -1,3 +1,7 @@
+<p align="center">
+  <img alig src="https://media.licdn.com/dms/image/v2/D4D16AQHkhIlJoOlunQ/profile-displaybackgroundimage-shrink_350_1400/B4DZbFo1rhHEAc-/0/1747072541638?e=1752710400&v=beta&t=99CQT48xYzJpCEqS0ksGulfD63pKdz2soSu90ZUxVy0" />
+</p>
+
 # **Let's connect! 👋**
 
 🚀 **Tech-Driven BizDev Lead | Blockchain & AI Innovator**   
