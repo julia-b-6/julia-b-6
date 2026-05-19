@@ -1,16 +1,36 @@
-<p align="center">
-  <img alig src="https://media.licdn.com/dms/image/v2/D4D16AQHkhIlJoOlunQ/profile-displaybackgroundimage-shrink_350_1400/B4DZbFo1rhHEAc-/0/1747072541638?e=1752710400&v=beta&t=99CQT48xYzJpCEqS0ksGulfD63pKdz2soSu90ZUxVy0" />
-</p>
+# Julia Stadnyk
 
-# **Let's connect! 👋**
+**I help fintech teams go from AI idea to working product —
+the right team, the right strategy, and the connections to make it move.**
 
-🚀 **Tech-Driven BizDev & Product Lead | Blockchain & AI Innovator**   
+---
 
-🌐 Over a decade of experience aligning business objectives with emerging technologies. I specialize in driving innovation and delivering impactful solutions in the Web2 and Web3 ecosystems.  Pushing the boundaries of transformation. 
+## What I do
 
-🔧 **Core Focus Areas:**  
-- Blockchain Protocols  
-- AI Integration & Explainable AI  
-- Product Development & Strategic Roadmaps  
-- Web2 to Web3 Transformation  
-- Decentralized Finance & Tokenomics  
+I work at [INC4](https://inc4.net) — an AI and Web3 product company
+that builds both internal ventures and external products for clients.
+
+My focus is two things:
+
+- **BD & Partnerships** — finding fintech teams that need a serious AI technical partner, not just a dev shop
+- **Venture Strategy** — shaping go-to-market, positioning, and growth for AI products 
+
+---
+
+## Background
+
+One of INC4's first employees. Built some of the functions from scratch — as the first person in the company facing that problem.
+
+- Co-founded a project that went through the **LAUNCH accelerator**
+  (top 10% of applicants, Cohort 10)
+- Represented INC4 at **50+ industry events** across America, Europe and Asia
+- Worked across the full stack of building a product company:
+  operations → product → BD → ventures
+
+
+---
+
+## Let's talk
+
+- 🔗 [LinkedIn](https://linkedin.com/in/bjv)
+- 📍 Portugal (remote-first)
