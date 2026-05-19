@@ -33,4 +33,4 @@ One of INC4's first employees. Built some of the functions from scratch — as t
 ## Let's talk
 
 - 🔗 [LinkedIn](https://linkedin.com/in/bjv)
-- 📍 Portugal (remote-first)
+- 📍 Portugal
